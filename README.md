@@ -1,6 +1,9 @@
 # Bangkok Sustainability: Green Space and PM2.5 Across Bangkok's Districts (2021–2024)
 
-Course project for **2107540 Data Science for Environment and Sustainability**, Academic Year 2026 Semester 1.
+Course project for **2107540 Data Science for Environment and Sustainability**, Academic Year 2026 Semester 1
+Main Contributors : Chatrphol Ovanonchai (with a little help from Claude Opus 5.5)
+
+![Cover Page](https://github.com/NuBFightForMyDream/2107540_DataSciEnvi_Project_BangkokSustainability/blob/master/Part%20I%20Notebook/Misc/CoverPageNotebook.png)
 
 > **Goal:** Is Bangkok a livable, sustainable city in terms of **air quality** and **green space**, and is this shared fairly across its districts?
 
